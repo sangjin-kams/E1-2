@@ -72,10 +72,10 @@ init, add, commit, push, pull, checkout, clone이 각각 무엇을 하는지 설
 * .gitignore, README.md 파일을 생성한다.
 * Git: 초기 설정 완료 후 첫 번째 commit과 push를 수행한다.
 
-* 새 저장소 생성
+** 새 저장소 생성
   <img width="917" height="251" alt="image" src="https://github.com/user-attachments/assets/ecadc2e4-20d9-4065-b0a5-4d1b58d939b8" />
 
-* 로컬에 저장소 설정
+** 로컬에 저장소 설정
   <img width="640" height="203" alt="image" src="https://github.com/user-attachments/assets/f06e0fd2-6df6-4a57-8ce3-2facd5ec2c7d" />
 
 ## 2. 메뉴 기능
